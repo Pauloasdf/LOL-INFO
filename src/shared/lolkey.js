@@ -1,0 +1,1 @@
+export const accountKey = 'RGAPI-9f44d3cf-106a-4888-856b-ae8c3a97b222'
